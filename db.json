@@ -1,14 +1,19 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+"person":[
+  {
+      "boid":705210777,
+      "persOrgNr":0,
+      "fornamn":"MUSTAFA",
+      "efternamn":"AABAS",
+      "odrHushall":true,
+      "lghNr":"1403",
+      "gatuadress":"BÄCKAVÄGEN 19 A ",
+      "city":"PERSTORP",
+      "province":"Skåne län",
+      "postnr":28432,
+      "boendeStartDate":"2012-07-09",
+      "boendeEndDate":null,
+      "dispensStartDate":null,
+      "dispensEndDate":null,
+      "distanceInKm":0.0
   }
-}
+  ]
